@@ -1,0 +1,9 @@
+pyacoustid>=1.3.0
+numpy
+pandas
+pyarrow
+tqdm
+# System dependency (not installable via pip):
+#   Debian/Ubuntu:  sudo apt-get install -y libchromaprint-tools
+#   macOS:          brew install chromaprint
+#   The `fpcalc` binary must be on PATH for pyacoustid to work.
